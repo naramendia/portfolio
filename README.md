@@ -1,6 +1,6 @@
-## Predicting Korean GDP
+# Predicting Korean GDP
 
-# Project Information
+## Project Information
 
 Author: Natalie Aramendia, Computation & Design, 2025, Duke Kunshan University
 
@@ -12,11 +12,17 @@ Acknowledgments: How to Acknowledge? [notes: please include all professors, stud
 
 Project Summary:
 This project hopes to use machine learning to predict future GDP of South Korea based on previous years GDP. Data on the GDP of Korea from 1960 to 2021 was sourced from [the World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD). This project can be applied later to predict growth of other factors (such as urbanization) and plot against GDP growth. 
+
 [Summarize the Background/Motivation]
+
 [Research Questions]
+
 [Application Scenario (Data Source)]
+
 [Methodology]
+
 [Results]
+
 [Intellectual Merits and Practical impacts of your project.]
 
 --------------------
