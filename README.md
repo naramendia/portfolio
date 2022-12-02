@@ -1,4 +1,5 @@
-#Project Information
+# Project Information
+
 Author: Natalie Aramendia, Computation & Design, 2025, Duke Kunshan University
 Instructor: Prof. Luyao Zhang, Duke Kunshan University
 Disclaimer: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
